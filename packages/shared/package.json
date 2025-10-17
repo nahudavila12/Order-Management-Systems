@@ -1,0 +1,24 @@
+{
+  "name": "@order-management/shared-types",
+  "version": "1.0.0",
+  "description": "Tipos compartidos para el Sistema de Gestión de Pedidos",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "build": "tsc",
+    "dev": "tsc --watch",
+    "clean": "rm -rf dist"
+  },
+  "keywords": [
+    "typescript",
+    "types",
+    "order-management"
+  ],
+  "author": "",
+  "devDependencies": {
+    "typescript": "^5.9.3"
+  },
+  "files": [
+    "dist/**/*"
+  ]
+}
