@@ -1,0 +1,176 @@
+[
+  {
+    "customerName": "John Doe",
+    "item": "Laptop Dell XPS 13",
+    "quantity": 1,
+    "status": "pending"
+  },
+  {
+    "customerName": "Jane Smith",
+    "item": "Wireless Mouse",
+    "quantity": 2,
+    "status": "completed"
+  },
+  {
+    "customerName": "Carlos López",
+    "item": "Mechanical Keyboard",
+    "quantity": 1,
+    "status": "cancelled"
+  },
+  {
+    "customerName": "Ana Martínez",
+    "item": "Monitor 27 inches",
+    "quantity": 1,
+    "status": "pending"
+  },
+  {
+    "customerName": "Luis Rodríguez",
+    "item": "HDMI Cable",
+    "quantity": 3,
+    "status": "completed"
+  },
+  {
+    "customerName": "María García",
+    "item": "USB-C Hub",
+    "quantity": 2,
+    "status": "pending"
+  },
+  {
+    "customerName": "Roberto Silva",
+    "item": "Gaming Headset",
+    "quantity": 1,
+    "status": "completed"
+  },
+  {
+    "customerName": "Isabel Torres",
+    "item": "External SSD 1TB",
+    "quantity": 1,
+    "status": "pending"
+  },
+  {
+    "customerName": "David Kim",
+    "item": "Webcam 4K",
+    "quantity": 1,
+    "status": "completed"
+  },
+  {
+    "customerName": "Laura Johnson",
+    "item": "Ergonomic Chair",
+    "quantity": 1,
+    "status": "cancelled"
+  },
+  {
+    "customerName": "Sofía Pérez",
+    "item": "Bluetooth Speaker",
+    "quantity": 2,
+    "status": "pending"
+  },
+  {
+    "customerName": "Andrés Gómez",
+    "item": "Graphics Tablet Wacom",
+    "quantity": 1,
+    "status": "completed"
+  },
+  {
+    "customerName": "Elena Ruiz",
+    "item": "Portable Projector",
+    "quantity": 1,
+    "status": "pending"
+  },
+  {
+    "customerName": "Miguel Ángel",
+    "item": "Smartphone Charger 65W",
+    "quantity": 4,
+    "status": "completed"
+  },
+  {
+    "customerName": "Paula Fernández",
+    "item": "USB Microphone",
+    "quantity": 1,
+    "status": "pending"
+  },
+  {
+    "customerName": "Héctor Navarro",
+    "item": "Noise Cancelling Headphones",
+    "quantity": 1,
+    "status": "completed"
+  },
+  {
+    "customerName": "Valentina Ortiz",
+    "item": "Standing Desk Converter",
+    "quantity": 1,
+    "status": "pending"
+  },
+  {
+    "customerName": "Jorge Mendoza",
+    "item": "Portable Monitor 15.6 inches",
+    "quantity": 1,
+    "status": "cancelled"
+  },
+  {
+    "customerName": "Natalia Castro",
+    "item": "Wi-Fi 6 Router",
+    "quantity": 1,
+    "status": "completed"
+  },
+  {
+    "customerName": "Ricardo Morales",
+    "item": "Laptop Stand Aluminum",
+    "quantity": 2,
+    "status": "pending"
+  },
+  {
+    "customerName": "Camila Rojas",
+    "item": "USB-C Cable 2m",
+    "quantity": 5,
+    "status": "completed"
+  },
+  {
+    "customerName": "Federico Díaz",
+    "item": "NVMe SSD 2TB",
+    "quantity": 1,
+    "status": "pending"
+  },
+  {
+    "customerName": "Lucía Bravo",
+    "item": "Wireless Keyboard",
+    "quantity": 1,
+    "status": "completed"
+  },
+  {
+    "customerName": "Tomás Vega",
+    "item": "USB Webcam 1080p",
+    "quantity": 3,
+    "status": "pending"
+  },
+  {
+    "customerName": "Carolina Soto",
+    "item": "All-in-One Printer",
+    "quantity": 1,
+    "status": "cancelled"
+  },
+  {
+    "customerName": "Diego Salinas",
+    "item": "Raspberry Pi 5",
+    "quantity": 2,
+    "status": "pending"
+  },
+  {
+    "customerName": "Marina Álvarez",
+    "item": "USB-C Docking Station",
+    "quantity": 1,
+    "status": "completed"
+  },
+  {
+    "customerName": "Pablo Herrera",
+    "item": "LED Desk Lamp",
+    "quantity": 2,
+    "status": "pending"
+  },
+  {
+    "customerName": "Gabriela Núñez",
+    "item": "Portable Power Bank 20k mAh",
+    "quantity": 2,
+    "status": "completed"
+  }
+]
